@@ -1,4 +1,5 @@
 #TODO APP
+
 1 Crear una app con create-react-app (opcional typescript)
 
 2 Limpiar el proyecto
